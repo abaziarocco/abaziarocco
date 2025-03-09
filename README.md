@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abaziarocco
-- 👀 I’m interested in Html,Css,Javascript
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Html,Css,Javascript projects
+- 👀 I’m interested in Accounting,Data Analysis,Programming,Project Management
+- 🌱 I’m currently learning AAT
+- 💞️ I’m looking to collaborate on Data analysis
 - 📫 How to reach me https://uk.linkedin.com/in/rocco-abazia-7aa44a138
 
 <!---
